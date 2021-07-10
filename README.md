@@ -51,8 +51,7 @@ Stonehenge é uma referência à canção [Stonehenge](https://www.youtube.com/w
 # Licenciamento
 
 <p align='center'>
-    <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
-	    <img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
-    </a>
-    <br />Este obra está licenciada com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Atribuição 4.0 Internacional</a>.
+	<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+		<img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
+	</a><br />Este trabalho de <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/ahayasic/stonehenge/" property="cc:attributionName" rel="cc:attributionURL">Alisson Hayasi da Costa</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Atribuição 4.0 Internacional</a>.
 </p>
